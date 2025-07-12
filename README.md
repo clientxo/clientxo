@@ -2,9 +2,12 @@
 
 ### 🔥 Software Engineer | Junior Reverse Engineer.
 
+ㅤ
 
 ### 🛠️ Projects:
 #### [Supernal](t.me/SupernalRB)
+
+ㅤ
 
 ### ⚡ Know:
 [![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus)](https://wikipedia.org/wiki/C++)
