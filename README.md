@@ -8,3 +8,6 @@
 ### ⚡ Know:
 [![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus)](https://wikipedia.org/wiki/C++)
 [![C#](https://img.shields.io/badge/-C%23-black?logo=cs)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
+
+#### Visitors:
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
