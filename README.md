@@ -4,7 +4,8 @@
 
 ### Projects:
 
-[![<img width="16" height="16" alt="rounded_image_radius80" src="https://github.com/user-attachments/assets/d62361a2-bd4a-4b24-a906-018872befbb6" />](t.me/SupernalRB)
+[<img width="16" height="16" alt="rounded_image_radius80" src="https://github.com/user-attachments/assets/d62361a2-bd4a-4b24-a906-018872befbb6" />](t.me/SupernalRB)
+#### [Supernal](t.me/SupernalRB)
 
 ### ⚡ Know:
 [![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus)](https://wikipedia.org/wiki/C++)
